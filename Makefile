@@ -1,4 +1,4 @@
-EXE=basic_performance
+EXE=fiji_workout
 HCCBINDIR=/opt/rocm/hcc/bin
 
 CXX = $(HCCBINDIR)/hcc

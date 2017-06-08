@@ -14,7 +14,7 @@ make
 
 #### Running
 ```shell
-./basic_performance
+./fiji_workout
 ```
 
 #### Dump GPU ISA
