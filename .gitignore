@@ -1,0 +1,7 @@
+basic_performance
+*.o
+*.d
+*.isa
+*.hsaco
+*.bundle
+*~
